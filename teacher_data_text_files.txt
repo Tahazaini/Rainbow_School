@@ -1,0 +1,4 @@
+teacher data text files
+ID 	   Name 	     Class 	 Section
+0111 	 Taha 	      101 	    C#
+0211 	 Abdulhamid 	201 	  Python
